@@ -22,6 +22,10 @@ I am passionate about web development and continuously improving my problem-solv
 * Advanced JavaScript
 * Firebase
 * REST APIs
+* React
+* Node js
+* Expree js
+* Mongo DB
 * Full Stack Development
 
 ## 🎯 Goals
