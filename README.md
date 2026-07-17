@@ -15,7 +15,7 @@ I am passionate about web development and continuously improving my problem-solv
 ## 💻 Coding Profiles
 
 * HackerRank: [https://www.hackerrank.com/profile/gokuln4002](https://www.hackerrank.com/profile/gokuln4002)
-* GitHub: [https://github.com/your-github-username](https://github.com/Gokul-dev2004)
+* GitHub: [https://github.com/Gokul-dev2004](https://github.com/Gokul-dev2004)
 
 ## 📚 Currently Learning
 
