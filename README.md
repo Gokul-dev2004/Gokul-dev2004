@@ -8,7 +8,7 @@ I am passionate about web development and continuously improving my problem-solv
 
 * HTML5
 * CSS3
-* Boostrap
+* Bootstrap
 * JavaScript
 * Git & GitHub
 
