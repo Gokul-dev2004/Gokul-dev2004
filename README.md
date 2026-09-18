@@ -37,7 +37,7 @@ I am passionate about web development and continuously improving my problem-solv
 ## 📫 Connect With Me
 
 * LinkedIn: [linkedin.com/in/gokul-n-8521243b0](https://www.linkedin.com/in/gokul-n-8521243b0/)
-* Email: [gokul075@gmail.com](mailto:gokuln4002@gmail.com)
+* Email: [cjgokul075@gmail.com](mailto:cjgokul075@gmail.com)
 
 ⭐ Always learning, building, and growing as a developer.
 
