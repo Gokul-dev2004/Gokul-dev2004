@@ -10,6 +10,7 @@ I am passionate about web development and continuously improving my problem-solv
 * CSS3
 * Bootstrap
 * JavaScript
+* React
 * Git & GitHub
 
 ## 💻 Coding Profiles
