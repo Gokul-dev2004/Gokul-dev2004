@@ -1,6 +1,6 @@
 # Hi, I'm Gokul N 👋
 
-### Aspiring Full Stack Developer
+### Aspiring Mern Full Stack Developer
 
 I am passionate about web development and continuously improving my problem-solving skills through coding challenges and real-world projects.
 
@@ -23,6 +23,7 @@ I am passionate about web development and continuously improving my problem-solv
 * Advanced JavaScript
 * Firebase
 * REST APIs
+* Axios
 * React
 * Node js
 * Express js
